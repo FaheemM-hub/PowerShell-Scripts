@@ -2,5 +2,14 @@
 This repository is meant to store useful concepts and scripts that were created for System Administration and Cybersecurity usage.
 
 # Contents
-Information Gathering: 
-  - Get-BitLockerDetails.ps1
+/PowerShell-Scripts
+│
+├── /Information Gathering
+│   ├── Get-BitLockerDetails.ps1
+│   └── 
+│
+├── /Security Hardening
+│   ├── 
+│   └── 
+│
+└── README.md
